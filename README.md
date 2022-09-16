@@ -2,7 +2,12 @@
 
 #### Welcome! 
   _I'm a software engineering university student, currently working as a programming teacher for young and older students since 2020 and surprisingly I love it_ 💚
- 
+<br>
+
+  ### 🔧 portfolio in process  🔨
+
+<br>
+
 - ⚡ My abilities:
   - Development of web applications
   - Development of desktop applications
