@@ -21,6 +21,6 @@
   - Fullstack development
 
 - Used programming languages
-  - ![My programming languages](https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,python&perline=3)
+  - ![My programming languages](https://skillicons.dev/icons?i=c,cpp,cs,java,javascript,python)
 - and also
-  - ![My frameworks and others](https://skillicons.dev/icons?i=git,bootstrap,nodejs,express,react,mysql,mongodb&perline=5)
+  - ![My frameworks and others](https://skillicons.dev/icons?i=git,bootstrap,nodejs,express,react,mysql,mongodb)
